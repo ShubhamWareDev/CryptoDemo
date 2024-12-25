@@ -1,8 +1,21 @@
-# React + Vite
+CryptoDemo
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 A cryptocurrency explorer platform using the CoinGecko API to display a list of cryptocurrencies and their detailed charts.
 
-Currently, two official plugins are available:
+Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🔍 Cryptocurrency List: Browse a list of cryptocurrencies with real-time updates.
+
+- 📊 Interactive Charts: View historical price trends for selected cryptocurrencies.
+
+- 🌐 Dynamic Data: Fetches live market data using the CoinGecko API.
+
+- 💡 User-Friendly Interface: Intuitive design for easy navigation
+
+Technologies Used
+
+Frontend: React.js
+
+API: CoinGecko API for cryptocurrency data and charts
+
+Chart Library: Chart.js
